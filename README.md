@@ -14,4 +14,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Redish03)](https://github.com/Redish03/github-readme-stats)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)f
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
