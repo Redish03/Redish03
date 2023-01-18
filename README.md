@@ -10,7 +10,7 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pluto0303)](https://solved.ac/pluto0303) <img src="http://mazandi.herokuapp.com/api?handle=pluto0303&theme=warm"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Redish03)](https://github.com/Redish03/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Redish03&langs_count=10&layout=compact)]()
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Redish03&count_private=true)
 
