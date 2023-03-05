@@ -1,7 +1,7 @@
 # 🐣Redish03🐣
 
 - 🔭 I’m currently working on Pukyeong National University(PKNU), The Department of BioMedical Engineering and [PKNU WAP](https://github.com/pknu-wap)
-- 🌱 I’m currently making IoT Service [늘돌봄☘️](https://github.com/pknu-wap/2022_2_WAP_IoT_TEAM1)
+- 🌱 I make IoT Service (Not launching, only for study) [늘돌봄☘️](https://github.com/pknu-wap/2022_2_WAP_IoT_TEAM1)
 - 👨🏽‍🎓 I'm currently studying Human Anatomy, IoT, Arduino(ESP32), Android.
 - 👯 I’m looking to collaborate on [PKNU WAP](https://github.com/pknu-wap)
 - 📫 How to reach me: Instagram @redish_03
