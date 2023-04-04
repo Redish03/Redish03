@@ -5,7 +5,7 @@
 - 👨🏽‍🎓 I'm currently studying Human Anatomy, IoT, Arduino(ESP32), Android.
 - 👯 I'm club Vice Chairman of [PKNU WAP](https://github.com/pknu-wap), Making Projects.
 - 📫 How to reach me: Instagram @redish_03
-- 📚 I'm going to learn German, Web(by React Native), TOEIC, Android(by Android Studio, Kotlin)
+- 📚 I'm going to learn German, TOEIC, Android(by Android Studio, Kotlin)
  
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pluto0303)](https://solved.ac/pluto0303) <img src="http://mazandi.herokuapp.com/api?handle=pluto0303&theme=warm"/>
