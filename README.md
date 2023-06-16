@@ -12,6 +12,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Redish03&langs_count=10&layout=compact)]()
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Redish03&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Redish03&layout=compact)](https://github.com/pqr4579/github-readme-stats)
+<br/>
+<br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Redish03)](https://github.com/anuraghazra/github-readme-stats)
