@@ -10,10 +10,9 @@
 - Personal BLOG : [Naver Blog](https://blog.naver.com/pluto0303)
  
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pluto0303)](https://solved.ac/pluto0303) <img src="http://mazandi.herokuapp.com/api?handle=pluto0303&theme=warm"/>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pluto0303)](https://solved.ac/pluto0303)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Redish03&layout=compact)](https://github.com/pqr4579/github-readme-stats)
-<br/>
 <br/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Redish03)](https://github.com/anuraghazra/github-readme-stats)
