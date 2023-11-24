@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Pukyeong National University(PKNU), The major of BioMedical Engineering, and Second major is Computer Science(Computer Engineering)
 - 🌱 I made IoT Service (Not launching, only for study) [늘돌봄☘️](https://github.com/pknu-wap/2022_2_WAP_IoT_TEAM1)
 - 👨🏽‍🎓 I'm currently studying Medical Engineering, IoT, Android.
-- 👯 I'm WAP Vice Chairman of [PKNU WAP](https://github.com/pknu-wap), Making Projects.
+- 👯 I'm WAP Vice Chairman of [PKNU WAP](https://github.com/pknu-wap)
 - 📫 How to reach me: Instagram @redish_03
 - 📚 I'm going to learn German, TOEIC, Android(by Android Studio, Kotlin)
 
