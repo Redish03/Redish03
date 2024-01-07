@@ -15,6 +15,8 @@
 
 ## 🗃️Projects
 - [늘돌봄☘️](https://github.com/pknu-wap/2022_2_WAP_IoT_TEAM1)
+- [🐬어장관리🐬](https://github.com/Redish03/2023-1-IoT-Team-1)
+- [Daily Care](https://github.com/Redish03/2023_2_APP_TEAM1)
 
 ## ✏️ I'm currently studying ✏️
 - German 🇩🇪
