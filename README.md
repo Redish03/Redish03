@@ -1,6 +1,6 @@
 # 🐣Redish03🐣
 
-## 🏫 Pukyeong National University(PKNU)
+## 🏫 Pukyong National University(PKNU)
 ⚕️Bio Medical Engineering, IT Convergence 
 
 💻Computer Engineering💻
